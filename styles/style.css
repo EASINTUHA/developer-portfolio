@@ -183,7 +183,6 @@ main{
 }
 .contact .section-title{
     text-align: left;
-
 }
 
 .contact input[type="text"],input[type="email"],textarea{
@@ -197,10 +196,11 @@ input{
 }
 .contact a{
     text-decoration: none;
+
 }
-
-
-
+.contact .section-decription{
+    padding-bottom: 25px;
+}
 
 
 
